@@ -1,0 +1,19 @@
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\bin\Debug\net5.0-windows\Guia 1.exe
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\bin\Debug\net5.0-windows\Guia 1.deps.json
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\bin\Debug\net5.0-windows\Guia 1.runtimeconfig.json
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\bin\Debug\net5.0-windows\Guia 1.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\bin\Debug\net5.0-windows\Guia 1.dll
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\bin\Debug\net5.0-windows\ref\Guia 1.dll
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\bin\Debug\net5.0-windows\Guia 1.pdb
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia_1.Form1.resources
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia_1.Form2.resources
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia 1.vbproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia 1.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia 1.AssemblyInfo.vb
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia 1.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia 1.dll
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\ref\Guia 1.dll
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia 1.pdb
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia 1.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia 1.vbproj.AssemblyReference.cache
