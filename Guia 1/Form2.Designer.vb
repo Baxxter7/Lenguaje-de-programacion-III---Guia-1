@@ -23,6 +23,8 @@ Partial Class Form2
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.btnAccion = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.txtResultado = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'btnAccion
@@ -34,17 +36,38 @@ Partial Class Form2
         Me.btnAccion.Text = "Acción"
         Me.btnAccion.UseVisualStyleBackColor = True
         '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(220, 159)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(90, 25)
+        Me.Label1.TabIndex = 4
+        Me.Label1.Text = "Resultado"
+        '
+        'txtResultado
+        '
+        Me.txtResultado.Location = New System.Drawing.Point(328, 159)
+        Me.txtResultado.Name = "txtResultado"
+        Me.txtResultado.Size = New System.Drawing.Size(150, 31)
+        Me.txtResultado.TabIndex = 3
+        '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(10.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.txtResultado)
         Me.Controls.Add(Me.btnAccion)
         Me.Name = "Form2"
         Me.Text = "Form2"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
     Friend WithEvents btnAccion As Button
+    Friend WithEvents Label1 As Label
+    Friend WithEvents txtResultado As TextBox
 End Class

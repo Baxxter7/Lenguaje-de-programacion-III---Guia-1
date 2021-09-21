@@ -7,8 +7,8 @@
 Public Class Form1
 
     Private Sub btnAccion_Click(sender As Object, e As EventArgs) Handles btnAccion.Click
-        'Dim a = {4, 5, 1, 8, 2, 0}
-        Dim a = {4, 5, 1, 8, 2, 1}
+        Dim a = {4, 5, 1, 8, 2, 0}
+
         Dim i, suma, mitad As Integer
 
         Dim size As Integer
