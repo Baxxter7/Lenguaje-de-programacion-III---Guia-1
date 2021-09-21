@@ -19,3 +19,5 @@ C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion
 C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia 1.pdb
 C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia 1.genruntimeconfig.cache
 C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia 1.vbproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia_1.Form5.resources
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 1\Guia 1\obj\Debug\net5.0-windows\Guia_1.Form6.resources
