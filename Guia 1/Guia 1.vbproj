@@ -4,7 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
     <RootNamespace>Guia_1</RootNamespace>
-    <StartupObject>Guia_1.Form3</StartupObject>
+    <StartupObject>Guia_1.Form4</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
   </PropertyGroup>
